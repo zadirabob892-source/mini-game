@@ -1,0 +1,6 @@
+{
+  "name": "Дуэли на Мечах — 2D PvP Арена",
+  "description": "Браузерная 2D PvP-игра про дуэли на мечах с видом сверху. Кастомизация билдов, парирование, комбо и арена с манекеном.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
